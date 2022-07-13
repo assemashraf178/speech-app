@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+# Google play link
+https://play.google.com/store/apps/details?id=com.asemapps.speech_app
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
